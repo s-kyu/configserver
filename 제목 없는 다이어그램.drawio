@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-19T12:15:01.483Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lT59MB0-zRIqZkRL-OM7" version="20.5.3" type="github">
+<mxfile modified="2022-11-19T12:25:54.605Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Bbp7wYxEvnGZvuLVzZYu" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1113" dy="-67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -15,18 +15,6 @@
         </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-16" value="pickit-dev-cluster" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="986" width="72" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="1120" width="130" height="229" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-21" value="pickit-gateway-server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="rYHKCPCsF7oC6Pboayof-35">
-          <mxGeometry x="35" y="34.5" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-22" value="pickit-eureka-server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="rYHKCPCsF7oC6Pboayof-35">
-          <mxGeometry x="35" y="134.5" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-34" value="Server" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-35">
-          <mxGeometry width="130" height="229" as="geometry" />
         </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="1120" width="200" height="590" as="geometry" />
@@ -48,6 +36,15 @@
         </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-33" value="pickit-SR-입찰-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
           <mxGeometry x="70" y="364" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-34" value="Server" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1120" width="130" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-21" value="pickit-gateway-server&lt;br&gt;진입점" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="75" y="1154.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-22" value="pickit-eureka-server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="75" y="1254.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
