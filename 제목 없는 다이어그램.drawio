@@ -1,11 +1,11 @@
-<mxfile modified="2022-11-19T12:25:54.605Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Bbp7wYxEvnGZvuLVzZYu" version="20.5.3" type="github">
+<mxfile modified="2022-11-19T12:48:31.601Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="maYycXlUG6FDLubNDWTc" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1113" dy="-67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rYHKCPCsF7oC6Pboayof-44" value="" style="fillColor=#EFF0F3;strokeColor=none;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1050" width="420" height="680" as="geometry" />
+          <mxGeometry x="10" y="1050" width="420" height="790" as="geometry" />
         </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="rYHKCPCsF7oC6Pboayof-15" target="rYHKCPCsF7oC6Pboayof-16">
           <mxGeometry relative="1" as="geometry" />
@@ -16,27 +16,6 @@
         <mxCell id="rYHKCPCsF7oC6Pboayof-16" value="pickit-dev-cluster" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="986" width="72" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="1120" width="200" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-40" value="Service" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry width="200" height="590" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-23" value="pickit-고객-대출한도조회-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry x="70" y="34" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-26" value="pickit-고객-대출의뢰-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry x="70" y="144" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-29" value="pickit-상담-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry x="70" y="474" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-32" value="pickit-고객-옥션-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry x="70" y="254" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rYHKCPCsF7oC6Pboayof-33" value="pickit-SR-입찰-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="rYHKCPCsF7oC6Pboayof-43">
-          <mxGeometry x="70" y="364" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-34" value="Server" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="40" y="1120" width="130" height="229" as="geometry" />
         </mxCell>
@@ -45,6 +24,27 @@
         </mxCell>
         <mxCell id="rYHKCPCsF7oC6Pboayof-22" value="pickit-eureka-server" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png" vertex="1" parent="1">
           <mxGeometry x="75" y="1254.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-45" value="pickit-User-가입-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1700" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-40" value="Service" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="200" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-23" value="pickit-고객-대출한도조회-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1154" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-26" value="pickit-고객-대출의뢰-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1264" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-29" value="pickit-상담-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1594" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-32" value="pickit-고객-옥션-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1374" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rYHKCPCsF7oC6Pboayof-33" value="pickit-SR-입찰-service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_docker-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1484" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
